@@ -7,6 +7,7 @@ window.SITE = {
       "id": "c1",
       "name": "Hyundai Starex 4×4",
       "desc": "Idéal pour les groupes et les familles : confortable, spacieux, avec galerie de toit pour les bagages.",
+      "specs": ["7 à 9 places", "4×4 enclenchable", "Climatisation", "Galerie de toit"],
       "price": "",
       "imgs": [
         "img/c1-1.jpg"
@@ -16,6 +17,7 @@ window.SITE = {
       "id": "c2",
       "name": "Hyundai Terracan",
       "desc": "Robuste et équipé (snorkel, galerie, pneus tout-terrain) pour la piste, la boue et la brousse.",
+      "specs": ["5 places", "4×4", "Snorkel", "Pneus tout-terrain"],
       "price": "",
       "imgs": [
         "img/c2-1.jpg"
@@ -25,6 +27,7 @@ window.SITE = {
       "id": "c3",
       "name": "Toyota Land Cruiser II",
       "desc": "Le classique des pistes et des plages de Madagascar : pare-buffle, roue de secours, très fiable.",
+      "specs": ["5 places", "4×4 permanent", "Pare-buffle", "Treuil / Secours"],
       "price": "",
       "imgs": [
         "img/c3-1.jpg",
