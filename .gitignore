@@ -1,0 +1,21 @@
+# Fichiers système (macOS / Windows / Linux)
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# Éditeurs & IDE (JetBrains / PhpStorm / WebStorm)
+.idea/
+/shelf/
+/workspace.xml
+/httpRequests/
+/queries/
+/dataSources/
+/dataSources.local.xml
+
+# VS Code
+.vscode/
+
+# Fichiers temporaires et journaux
+*.log
+*.tmp
